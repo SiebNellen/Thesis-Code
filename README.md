@@ -1,2 +1,2 @@
 # Thesis-Code
-In the Thesis_final file is the code I used for my thesis. There is an example open that can be run for an example, but this is not what I used in the thesis itself. 
+In the Thesis_final file is the code I used for my thesis. There is an example open that was applied on the random network and this can be run one time to see how it works. 
